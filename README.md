@@ -3,8 +3,8 @@
 
 ## My Intro  
 
-Over 7 years of professional experience :man_scientist: in working with
-diverse teams across the globe:earth_americas:. Involved in over 50+
+Over 9 years of professional experience :man_scientist: in working with
+diverse teams across the globe:earth_americas:. Involved in over 60+
 internal and external projects:office_worker:. Have been SME at all the
 organizations within short period of time:hourglass:. Recognized for
 hard work and going extra mile :walking:. Certified by IIT
