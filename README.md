@@ -1,29 +1,22 @@
-## Hi there :wave:  
-### Welcome to my profile!:slightly_smiling_face:
+## Hi there 👋
 
-## My Intro  
+### Welcome to my GitHub!
 
-Over 9 years of professional experience :man_scientist: in working with
-diverse teams across the globe:earth_americas:. Involved in over 60+
-internal and external projects:office_worker:. Have been SME at all the
-organizations within short period of time:hourglass:. Recognized for
-hard work and going extra mile :walking:. Certified by IIT
-Madras on Python for Data Science:classical_building:.
+## 👨‍💻 About Me
 
-## **I am a working professional with following responsibilities**  
- -- Work with stakeholders to understand and elaborate the business problem:
-    design KPIs, wireframes and/or define hypotheses for performing EDA  
- -- Work with business teams to understand data sources, assess data, develop
-    rules to clean, treat, aggregate & prepare data  
- -- Develop test scripts, machine learning models, and perform performance
-    analysis   
- -- Presentation of insights to business stakeholders and drive consumption.  
- -- Manage, support and mentor new and established team members and to
-    review their work as required  
- -- Drive innovation through research, experimentation on new
-    data/tools/techniques, application of those learnings to solve existing and new problems  
- -- Share learnings, build awareness in the global data and analytics community  
+I’m a **Data & AI Professional with 11+ years of industry experience**, working at the intersection of **data analytics, machine learning, and business strategy**. I’ve collaborated with **global, cross-functional teams** and contributed to **60+ internal and external projects**, delivering measurable business impact across domains.
 
-**To know more use the link**
-[Profile](https://public.tableau.com/app/profile/suraj.jha/viz/Resume_15991537758770/Resume).
+I’m known for quickly becoming a **Subject Matter Expert**, going the **extra mile**, and translating complex data into **actionable insights**. I hold a **Python for Data Science certification from IIT Madras** and continuously experiment with emerging tools and techniques to solve real-world problems.
 
+## 🚀 What I Do
+
+* Partner with stakeholders to **define business problems**, design **KPIs**, frame **hypotheses**, and guide **EDA**
+* Analyze and prepare data by understanding sources, applying **data quality rules**, and building scalable datasets
+* Develop **ML models**, analytical solutions, and validation/test frameworks
+* Communicate insights through **clear storytelling**, dashboards, and executive presentations
+* **Mentor and review** team members’ work, supporting capability building
+* Drive **innovation through research and experimentation** in data, AI, and analytics
+* Share learnings and contribute to the **global data & analytics community**
+
+🔗 **Learn more about my work:**
+[Tableau Profile & Resume](https://public.tableau.com/app/profile/suraj.jha/viz/Resume_15991537758770/Resume)
